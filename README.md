@@ -4,12 +4,12 @@ The purpose of this project is to learn how to code/integrate/build/deploy a sim
 
 The objective of this small project is to:
 
--[ ] BACKEND
- -[ ] Show a list of google drive archives.
- -[ ] Select a file from the list
- -[ ] Fetch such file and upload it (CSV?/Excel?)
- -[ ] Process it somehow
- -[ ] Add rows to Google DataStore
--[ ] FRONTEND
--[ ] Allow queries on uploaded data and show it somehow.
+- [ ] BACKEND
+ - [ ] Show a list of google drive archives.
+ - [ ] Select a file from the list
+ - [ ] Fetch such file and upload it (CSV?/Excel?)
+ - [ ] Process it somehow
+ - [ ] Add rows to Google DataStore
+- [ ] FRONTEND
+- [ ] Allow queries on uploaded data and show it somehow.
 
